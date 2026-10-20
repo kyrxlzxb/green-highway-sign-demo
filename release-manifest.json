@@ -1,0 +1,19 @@
+{
+  ".env.example": "d8a6471c3db2c9831d57560fcc7e15ec04ff697b8c8dfec8919a81abfd0b2260",
+  ".gitignore": "93d57177c73da215aba3b77eeb5a92a42a960b86f4df8b905dc9db6cc203f0c2",
+  "app/quick_green_sign_demo.py": "87431acdc18271064bb688e8a9cbef8601513cdd949ac4bc4e69c267fa49d77b",
+  "prompts/quick_green_sign/layout_v001.md": "62c703eec7d582d354a97c3feaa9270692fc0ef609e84f6792e1c1255f7f4ac9",
+  "pyproject.toml": "7d5bb6bb4636b2654b1753ba0d4fe1ddf566eb0c98b0fd3d4ee5c0b3178d8280",
+  "README.md": "fc1958201051121b468a1b2b09ec37436e452efe8a59329337c4b68d3340cb0c",
+  "scripts/try_green_sign.py": "ee73f9c78e952b04db8b7333e22b5c4112cc1c0ee5a60fea7d23100f70c16f0f",
+  "src/nav_asset_demo/__init__.py": "940af9f16f44d7fe6c8c787c0af9e3508e9143783fe8a2414555880d013326b0",
+  "src/nav_asset_demo/core/__init__.py": "940af9f16f44d7fe6c8c787c0af9e3508e9143783fe8a2414555880d013326b0",
+  "src/nav_asset_demo/core/golden_sign_geometry.py": "27442238eb12d0947e3b571faecc43e410c35b2466fe8c962aea4490294a2ff1",
+  "src/nav_asset_demo/core/inference.py": "99d87af549951dbf56addd8dbd02d3253725d0a1939f6879c6e3e1cefc456862",
+  "src/nav_asset_demo/core/openai_compatible_vision.py": "4f54e9531392cdfbe919c91d47d1a9b671b53ee51d130d90eb12d1ed93ce6f39",
+  "src/nav_asset_demo/core/quick_blue_sign.py": "f4163569935fb42a7c2eeb95075615b7144876cd6979e33497c5278a5fd4cafc",
+  "src/nav_asset_demo/core/quick_green_sign.py": "29d67fca9ecb0d532e0f7f7a655fd3d4d06fce7dfd12373fe469e93b20133f13",
+  "src/nav_asset_demo/pipelines/__init__.py": "940af9f16f44d7fe6c8c787c0af9e3508e9143783fe8a2414555880d013326b0",
+  "src/nav_asset_demo/pipelines/quick_green_sign.py": "f8199783f3991b35fdacaa0f3b4cccfa8909e91a59ffb69ceef08992bc1f2627",
+  "tests/test_quick_green_sign.py": "a19aa2df6f7731202c04391f9059f714aebe7242f2752c885524791b2acb0584"
+}

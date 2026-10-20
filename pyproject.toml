@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "nav-green-sign-demo"
+version = "0.1.0"
+description = "Clean green highway panel PNG to editable SVG prototype"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "numpy>=1.26,<3",
+  "opencv-python-headless>=4.10,<5",
+  "openai>=1.68,<3",
+  "Pillow>=10.4,<13",
+  "pydantic>=2.8,<3",
+  "streamlit>=1.37,<2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3,<9"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/nav_asset_demo"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

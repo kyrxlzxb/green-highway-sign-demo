@@ -1,0 +1,1 @@
+"""Standalone green sign demo."""
